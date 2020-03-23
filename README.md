@@ -1,0 +1,2 @@
+# alpha
+Git course project
